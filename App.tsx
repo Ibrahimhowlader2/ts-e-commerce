@@ -1,7 +1,7 @@
 import TheLayout from "./views/pages/TheLayout";
 
 function App() {
-  return (
+         return (
     <div>
       <TheLayout />
     </div>
